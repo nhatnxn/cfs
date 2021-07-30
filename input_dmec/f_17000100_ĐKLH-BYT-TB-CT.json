@@ -1,0 +1,100 @@
+{
+    "attachmentList": [{
+        "code": "BK_PLTTB",
+        "fileList": [{
+            "id": 0,
+            "name": "PL TBYT 09 Nipro.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/919300/upload_00215488_1501320749816.pdf?version=1.0"
+        }],
+        "id": "1",
+        "name": "Bản phân loại trang thiết bị y tế"
+    }, {
+        "code": "GCN_TCCL",
+        "fileList": [{
+            "id": 0,
+            "name": "ISO13485-NiproTHAI-30621.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/12138984/upload_00631244_1569868988249.pdf?version=1.0&fileId=12139097"
+        }, {
+            "id": 1,
+            "name": "EC-NiproTHAI-131023.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/12138984/upload_00631248_1569868999827.pdf?version=1.0&fileId=12139106"
+        }],
+        "id": "2",
+        "name": "Giấy chứng nhận đạt tiêu chuẩn quản lý chất lượng"
+    }, {
+        "code": "GUQ_TTBYT",
+        "fileList": [{
+            "id": 0,
+            "name": "GiayuyquyenNiproJP-NiproThai-(all)-2023.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/12138984/upload_00631252_1569869044536.pdf?version=1.0&fileId=12139115"
+        }, {
+            "id": 1,
+            "name": "GiayuyquyenNiproThai-NeoAgro(all)-2023.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/12138984/upload_00631260_1569869137569.pdf?version=1.0&fileId=12139133"
+        }],
+        "id": "3",
+        "name": "Giấy ủy quyền của chủ sở hữu trang thiết bị y tế"
+    }, {
+        "code": "CNLH",
+        "fileList": [{
+            "id": 0,
+            "name": "Giayluuhanh-NiproThai180720.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/12138984/upload_00631301_1569869183495.pdf?version=1.0&fileId=12139160"
+        }],
+        "id": "4",
+        "name": "Giấy chứng nhận lưu hành tự do còn hiệu lực tại thời điểm nộp hồ sơ đối với trang thiết bị y tế nhập khẩu hoặc Phiếu tiếp nhận hồ sơ công bố đủ điều kiện sản xuất trang thiết bị y tế đối với TTBYT sản xuất trong nước"
+    }],
+    "equipment": {
+        "equipmentList": [{
+            "code": "1013701",
+            "factoryList": [{
+                "address": "3-9-3, Honjo-Nishi, Kita-Ku, Osaka 531-8510, Japan",
+                "country": "20412",
+                "name": "Nipro Corporation"
+            }],
+            "iso": "13485:2016",
+            "name": "Nipro Transducer Protector (TP-Sure)",
+            "packing": null,
+            "type": "213505"
+        }],
+        "group": 0,
+        "medicalEquipmentType": 1,
+        "name": "Phin lọc khí dùng trong chạy thận nhân tạo",
+        "singleUse": 0
+    },
+    "equipmentOwner": {
+        "address": "3-9-3, Honjo-Nishi, Kita-Ku, Osaka 531-8510, Japan",
+        "country": "20412",
+        "name": "Nipro Corporation"
+    },
+    "fastTrack": false,
+    "profileCode": "string",
+    "profileId": 0,
+    "profileOwner": "string",
+    "registrant": {
+        "address": "2B Phổ Quang",
+        "email": "neoagrohcm2017@gmail.com",
+        "fax": null,
+        "name": "VĂN PHÒNG ĐẠI DIỆN NEO AGRO BUSINESS CO., LTD. TẠI TP. HỒ CHÍ MINH",
+        "phone": "02838443716",
+        "taxCode": "0304670750"
+    },
+    "representator": {
+        "identifier": "Jinda Chotcomwongse",
+        "issuedBy": "string",
+        "issuedDate": "2021-07-25",
+        "mobilePhone": "string",
+        "name": "string",
+        "phone": "string"
+    },
+    "serviceCode": "string",
+    "serviceName": "string",
+    "submittedAt": "2021-07-25T12:10:15.668Z",
+    "warrantyFacilityList": [{
+        "address": "string",
+        "mobilePhone": "string",
+        "name": "string",
+        "phone": "string",
+        "taxCode": "string"
+    }]
+}

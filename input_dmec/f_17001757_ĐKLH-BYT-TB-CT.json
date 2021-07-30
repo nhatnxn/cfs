@@ -1,0 +1,101 @@
+{
+    "attachmentList": [{
+        "code": "BK_PLTTB",
+        "fileList": [{
+            "id": 0,
+            "name": "PL0631_Elecsys Anti-HAV IgM_07026773190_0138.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/11508945/upload_00250446_1566985356311.pdf?version=1.0&fileId=11526718"
+        }],
+        "id": "1",
+        "name": "Bản phân loại trang thiết bị y tế"
+    }, {
+        "code": "GCN_TCCL",
+        "fileList": [{
+            "id": 0,
+            "name": "ISO_Elecsys Anti-HAV IgM_07026773190_0138.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/11508945/upload_00250454_1566985378000.pdf?version=1.0&fileId=11526736"
+        }],
+        "id": "2",
+        "name": "Giấy chứng nhận đạt tiêu chuẩn quản lý chất lượng"
+    }, {
+        "code": "GUQ_TTBYT",
+        "fileList": [{
+            "id": 0,
+            "name": "LoA_Elecsys Anti-HAV IgM_07026773190_0138.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/11508945/upload_00250458_1566985392667.pdf?version=1.0&fileId=11526745"
+        }],
+        "id": "3",
+        "name": "Giấy ủy quyền của chủ sở hữu trang thiết bị y tế"
+    }, {
+        "code": "CNLH",
+        "fileList": [{
+            "id": 0,
+            "name": "FSC_Elecsys Anti-HAV IgM_07026773190_0138.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/11508945/upload_00250466_1566985414074.pdf?version=1.0&fileId=11526754"
+        }],
+        "id": "4",
+        "name": "Giấy chứng nhận lưu hành tự do còn hiệu lực tại thời điểm nộp hồ sơ đối với trang thiết bị y tế nhập khẩu hoặc Phiếu tiếp nhận hồ sơ công bố đủ điều kiện sản xuất trang thiết bị y tế đối với TTBYT sản xuất trong nước"
+    }, {
+        "code": "FASTTRACK3",
+        "fileList": [{
+            "id": 0,
+            "name": "FSC_AUS_Elecsys Anti-HAV IgM_07026773190_0138.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/11508945/upload_00250659_1566985730807.pdf?version=1.0&fileId=11526990"
+        }],
+        "id": "6",
+        "name": "Giấy chứng nhận lưu hành tự do của một trong các nước hoặc tổ chức sau: Các nước thành viên EU, Nhật Bản, Ca-na-đa, TGA của Úc, FDA của Mỹ(Bắt buộc đối với trường hợp 1 cấp nhanh số lưu hành)"
+    }],
+    "equipment": {
+        "equipmentList": [{
+            "code": "1024646",
+            "factoryList": [{
+                "address": "Sandhofer Strasse 116, 68305 Mannheim, Đức",
+                "country": "20281",
+                "name": "Roche Diagnostics GmbH, Đức"
+            }],
+            "iso": "13485:2016",
+            "name": "Elecsys Anti-HAV IgM (07026773190_Anti-HAV IgM Elecsys E2G 300)",
+            "packing": null,
+            "type": "213505"
+        }],
+        "group": 0,
+        "medicalEquipmentType": 1,
+        "name": "Hóa chất xét nghiệm dùng để định tính kháng thể IgM kháng vi rút viêm gan A",
+        "singleUse": 0
+    },
+    "equipmentOwner": {
+        "address": "Sandhofer Strasse 116, 68305 Mannheim, Đức",
+        "country": "20281",
+        "name": "Roche Diagnostics GmbH, Đức"
+    },
+    "fastTrack": true,
+    "profileCode": "string",
+    "profileId": 0,
+    "profileOwner": "string",
+    "registrant": {
+        "address": "Tầng 27, Tòa nhà Pearl Plaza, 561A Điện Biên Phủ",
+        "email": "minh_uyen.nguyen@roche.com",
+        "fax": "0838101999",
+        "name": "CÔNG TY TNHH ROCHE VIỆT NAM",
+        "phone": "0838101888",
+        "taxCode": "0310805269"
+    },
+    "representator": {
+        "identifier": "Rodney James Ward",
+        "issuedBy": "string",
+        "issuedDate": "2021-07-25",
+        "mobilePhone": "string",
+        "name": "string",
+        "phone": "string"
+    },
+    "serviceCode": "string",
+    "serviceName": "string",
+    "submittedAt": "2021-07-25T12:10:15.668Z",
+    "warrantyFacilityList": [{
+        "address": "string",
+        "mobilePhone": "string",
+        "name": "string",
+        "phone": "string",
+        "taxCode": "string"
+    }]
+}

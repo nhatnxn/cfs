@@ -1,0 +1,102 @@
+{
+  "profileId": 0,
+  "serviceName": "string",
+  "serviceCode": "DKLH_NK_B_K_QG",
+  "profileCode": "000.00.19.H17-210607-0001",
+  "profileOwner": "Owner",
+  "submittedAt": "2021-07-14T08:50:46.601Z",
+  "fastTrack": false,
+  "registrant": {
+    "name": "CÔNG TY TNHH OLYMPUS VIỆT NAM",
+    "address": "Đường số 8, khu công nghiệp Long Thành, Xã Tam An, Huyện Long Thành, tỉnh Đồng Nai"
+  },
+  "representator": {
+    "name": "HIROYUKI MARUYAMA"
+  },
+  "equipment": {
+    "name": "Vòng cắt nội soi bằng xung điện sử dụng một lần",
+    "medicalEquipmentType": 2,
+    "group": 1,
+    "equipmentList": [
+      {
+        "name": "Vòng cắt nội soi bằng xung điện sử dụng một lần",
+        "iso": "string",
+        "type": "SD-210U-10, SD-210U-15, SD-210U-25, SD-230U-20, SD-240U-10, SD-240U-15, SD-240U-25",
+        "code": "string",
+        "factory": [
+          {
+            "name": "Công ty TNHH Olympus Việt Nam",
+            "address": "Đường số 8, khu công nghiệp Long Thành, Xã Tam An, Huyện Long Thành, tỉnh Đồng Nai",
+            "country": "VietNam"
+          }
+        ]
+      }
+    ]
+  },
+  "equipmentOwner": {
+    "name": "OLYMPUS MEDICAL SYSTEMS CORP",
+    "address": "2951 Ishikawa-cho, Hachioji-shi, Tokyo 192-8507, Japan"
+  },
+  "warrantyFacility": [
+    {
+      "name": "string",
+      "address": "string"
+    }
+  ],
+  "attachments": {
+    "classification": {
+      "code": "BK_PLTTB",
+      "files": [
+        {
+          "id": 0,
+          "url": "https://dmec.moh.gov.vn/documents/10182/19715900/upload_00061937_1622004401114.pdf?version=1.0&fileId=19722041"
+        }
+      ]
+    },
+    "iso": {
+      "code": "GCN_TCCL",
+      "files": [
+        {
+          "id": 0,
+          "url": "https://dmec.moh.gov.vn/documents/10182/19715900/upload_00061974_1622004411716.pdf?version=1.0&fileId=19722057"
+        }
+      ]
+    },
+    "attorneyPower": {
+      "code": "GUQ_TTBYT",
+      "files": [
+        {
+          "id": 0,
+          "url": "https://dmec.moh.gov.vn/documents/10182/19715900/upload_00061978_1622004429107.pdf?version=1.0&fileId=19722065"
+        }
+      ]
+    },
+    "warranty": {
+      "code": "string",
+      "files": [
+        {
+          "id": 0,
+          "url": "string"
+        }
+      ]
+    },
+    "cfsLocal": {
+      "code": "CNLH",
+      "files": [
+        {
+          "id": 0,
+          "url": "https://dmec.moh.gov.vn/documents/10182/19715900/upload_00061999_1622004497116.pdf?version=1.0&fileId=19722097"
+        }
+      ]
+    },
+    "cfsForeign": {
+      "code": "CNLH",
+      "files": [
+        {
+          "id": 0,
+          "url": "string"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+    "attachmentList": [{
+        "code": "BK_PLTTB",
+        "fileList": [{
+            "id": 0,
+            "name": "Phân loại 28 Soluscope P và công văn giải trình.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/18529914/upload_00025107_1614309191707.pdf?version=1.0&fileId=18533147"
+        }],
+        "id": "1",
+        "name": "Bản phân loại trang thiết bị y tế"
+    }, {
+        "code": "GCN_TCCL",
+        "fileList": [{
+            "id": 0,
+            "name": "ISO 13485 Soluscope 01.March.2021.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/18529914/upload_00029580_1614311142217.pdf?version=1.0&fileId=18535675"
+        }, {
+            "id": 1,
+            "name": "ISO 13485 Soluscope Sep.2021 non legalized.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/18529914/upload_00029640_1614311156200.pdf?version=1.0&fileId=18535715"
+        }],
+        "id": "2",
+        "name": "Giấy chứng nhận đạt tiêu chuẩn quản lý chất lượng"
+    }, {
+        "code": "GUQ_TTBYT",
+        "fileList": [{
+            "id": 0,
+            "name": "LOA Soluscope 31.Dec.2021 và công văn.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/18529914/upload_00027943_1614310173161.pdf?version=1.0&fileId=18534506"
+        }],
+        "id": "3",
+        "name": "Giấy ủy quyền của chủ sở hữu trang thiết bị y tế"
+    }, {
+        "code": "CNLH",
+        "fileList": [{
+            "id": 0,
+            "name": "FSC Soluscope và công văn.pdf",
+            "url": "https://dmec.moh.gov.vn/documents/10182/18529914/upload_00027947_1614310188547.pdf?version=1.0&fileId=18534514"
+        }],
+        "id": "4",
+        "name": "Giấy chứng nhận lưu hành tự do còn hiệu lực tại thời điểm nộp hồ sơ đối với trang thiết bị y tế nhập khẩu hoặc Phiếu tiếp nhận hồ sơ công bố đủ điều kiện sản xuất trang thiết bị y tế đối với TTBYT sản xuất trong nước"
+    }],
+    "equipment": {
+        "equipmentList": [{
+            "code": "1029199",
+            "factoryList": [{
+                "address": "100, Rue du Fauge - Z.I. Les Paluds, 13400 Aubagne - Pháp",
+                "country": "20274",
+                "name": "Soluscope SAS"
+            }],
+            "iso": "13485:2016",
+            "name": "SOLUSCOPE P",
+            "packing": null,
+            "type": "213501"
+        }],
+        "group": 0,
+        "medicalEquipmentType": 2,
+        "name": "Dung dịch khử khuẩn mức độ cao dụng cụ nội soi dùng trong y tế",
+        "singleUse": 0
+    },
+    "equipmentOwner": {
+        "address": "100, Rue du Fauge - Z.I. Les Paluds, 13400 Aubagne - Pháp",
+        "country": "20274",
+        "name": "Soluscope SAS"
+    },
+    "fastTrack": false,
+    "profileCode": "string",
+    "profileId": 0,
+    "profileOwner": "string",
+    "registrant": {
+        "address": "phòng 2312 tầng 23 tòa nhà ICON 4, 243A Đê La Thành",
+        "email": "an.tran@vietmedical.com.vn",
+        "fax": null,
+        "name": "CÔNG TY TNHH THƯƠNG MẠI VM",
+        "phone": "024 71088989",
+        "taxCode": "0107957144"
+    },
+    "representator": {
+        "identifier": "Đỗ Thanh Tùng",
+        "issuedBy": "string",
+        "issuedDate": "2021-07-25",
+        "mobilePhone": "string",
+        "name": "string",
+        "phone": "string"
+    },
+    "serviceCode": "string",
+    "serviceName": "string",
+    "submittedAt": "2021-07-25T12:10:15.668Z",
+    "warrantyFacilityList": [{
+        "address": "string",
+        "mobilePhone": "string",
+        "name": "string",
+        "phone": "string",
+        "taxCode": "string"
+    }]
+}
